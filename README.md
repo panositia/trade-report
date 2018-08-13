@@ -1,4 +1,4 @@
-# DAily Trade Report Engine
+# Daily Trade Report Engine
 
 The instructions to compile and run the program are:
 
